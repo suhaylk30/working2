@@ -1,0 +1,11 @@
+body {
+    overflow: scroll;
+}
+#wrapper {
+    width: 960px;
+    background-color: aqua;
+}
+.centerMargin {
+    margin-right: auto;
+    margin-left: auto;
+}
